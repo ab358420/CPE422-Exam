@@ -1,0 +1,3 @@
+#!/bin/bash
+# compiling to output application for button testing
+g++ main.cpp derek_LED.cpp GPIO.cpp -o control-gpio.cpp -pthread

@@ -1,0 +1,3 @@
+#!/bin/bash
+# compiling to output application process-temp
+g++ process-temp.cpp -o process-temp

@@ -1,0 +1,3 @@
+#!/bin/bash
+# compiling to output application record-temperature.cpp
+g++ tmp36adc.cpp -o record-temperature.cpp
